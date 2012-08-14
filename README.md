@@ -1,4 +1,4 @@
 sojern
 ======
 
-Sojern SMP 
+Sojern SMP project 
